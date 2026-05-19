@@ -1,3 +1,2 @@
 # my-first-project
-This is a test
-EDIT
+This is a test. EDIT
